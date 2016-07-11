@@ -1,0 +1,38 @@
+body {
+	height: 500px;
+}
+
+#banner {
+	height: 100px;
+	background-color: azure;
+}
+#container {
+	margin: 0 auto;
+	width: 1024px;
+	background-color: Firebrick;
+}
+#contact-info{
+	float: right;
+}
+.row {
+	height: 20%;
+	border-bottom: 1px solid;
+}
+.row-content {
+	display: inline-block;
+}
+.label {
+	width: 25%;
+	text-align: right;
+	padding-right: 10px;
+	border-right: solid 1px black;
+	float: left;
+}
+#name {
+	font-size: 42px;
+}
+#personal {
+	float: left;
+	margin-left: 24px;
+
+}
