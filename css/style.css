@@ -10,6 +10,7 @@ a:visited {
 }
 .course-list {
 	padding-left: 5px;
+	font-size: 14px;
 }
 #container {
 	margin: 0 auto;
@@ -72,6 +73,9 @@ div {
 	border-bottom: steelblue 5px solid;
     width: 825px;
 
+}
+.skills {
+	font-size: 14px;
 }
 .time {
 	float: right;
